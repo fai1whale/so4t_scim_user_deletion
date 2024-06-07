@@ -60,6 +60,6 @@ If you'd like to delete all deactivated users, run the script with the `--deacti
 
 
 ## Support, security, and legal
-Disclaimer: the creator of this project works at Stack Overflow, but it is a labor of love that comes with no formal support from Stack Overflow. 
+Disclaimer: This script is designed for current Stack Overflow clients that need assistance with bulk API actions. 
 
-If you run into issues using the script, please [open an issue](https://github.com/jklick-so/so4t_scim_user_deletion/issues). You are also welcome to edit the script to suit your needs, steal the code, or do whatever you want with it. It is provided as-is, with no warranty or guarantee of any kind. If the creator wasn't so lazy, there would likely be an MIT license file included.
+If you run into issues using the script, please open a support issue with Stack Overflow. You are also welcome to clone the script and change it to suit your needs. It is provided as-is, with no warranty or guarantee of any kind.
